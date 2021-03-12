@@ -6,8 +6,13 @@ Within the Tableau Story, there are various visualizations that share more infor
 
 ## Checkout times for users
 ![1](https://user-images.githubusercontent.com/74469315/110876700-07aea480-82a6-11eb-867f-5b82106044cf.PNG)
+
 In this image, you can see that most citi bike trips conclude within the first hour of having the bike.
 
+## Number of trips by day / time
+
+
+In this image, you can see that most citi bike trips take place during weekday commuting hours - mornings at 8am, and evenings at 5pm-6pm.
 
 # Summary
 In general, men use the citi bike service more than women. In my opinion, that means citi bike has an opportunity to target women with compelling marketing to encourage more people to try the service. For future analysis, I would like to see bike usage compared with marketing efforts to see if that drives an increased number of rides. I'd also be interested to compare bike usage with weather, to see exactly when use picks up and dies down. I would be curious to see, at what temperature are people comfortable using the bikes, and at what temperature does usage start to decline as they stop being ok with it.
