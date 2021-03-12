@@ -10,7 +10,7 @@ Within the Tableau Story, there are various visualizations that share more infor
 In this image, you can see that most citi bike trips conclude within the first hour of having the bike.
 
 ## Number of trips by day / time
-
+![2](https://user-images.githubusercontent.com/74469315/110877118-e26e6600-82a6-11eb-85df-a833fac0c4ee.PNG)
 
 In this image, you can see that most citi bike trips take place during weekday commuting hours - mornings at 8am, and evenings at 5pm-6pm.
 
